@@ -1,4 +1,0 @@
-/home/tony/unicentro/cg/aulas/2012/nehe_opentk/bin/debug/NeHeLessons.exe.mdb
-/home/tony/unicentro/cg/aulas/2012/nehe_opentk/bin/debug/NeHeLessons.exe
-/home/tony/unicentro/cg/aulas/2012/nehe_opentk/src/NeHeLessons/obj/Debug/NeHeLessons.exe
-/home/tony/unicentro/cg/aulas/2012/nehe_opentk/src/NeHeLessons/obj/Debug/NeHeLessons.exe.mdb
