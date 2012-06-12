@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeHeLessons/GLUT.cs">
+    <Files>
+      <File FileName="NeHeLessons/Arm.cs" Line="90" Column="48" />
+      <File FileName="NeHeLessons/Program.cs" Line="97" Column="58" />
+      <File FileName="NeHeLessons/Primitives.cs" Line="15" Column="54" />
+      <File FileName="NeHeLessons/Lesson07.cs" Line="278" Column="18" />
+      <File FileName="NeHeLessons/GLUT.cs" Line="168" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
